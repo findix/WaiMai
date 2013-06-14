@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group>
+        <item
+            android:id="@+id/add"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="新增外卖电话"/>
+        <item
+            android:id="@+id/setName"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="设置姓名"/>
+        <item
+            android:id="@+id/editTel"
+            android:icon="@android:drawable/ic_menu_close_clear_cancel"
+            android:title="删除外卖电话"/>
+        <!--
+        <item
+            android:id="@+id/addTel"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="插入电院外卖电话"/>
+        -->
+        <item
+            android:id="@+id/about"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="关于"/>
+    </group>
+
+</menu>
