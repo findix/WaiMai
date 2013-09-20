@@ -6,7 +6,7 @@ import com.adsmogo.controller.listener.AdsMogoListener;
 import com.adsmogo.util.AdsMogoUtil;
 import com.find1x.waiMai.db.DatabaseHelper;
 
-import Findix.waiMai.R;
+import com.find1x.waiMai.R;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ContentValues;
